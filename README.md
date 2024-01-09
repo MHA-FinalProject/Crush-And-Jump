@@ -10,8 +10,6 @@
 - [Gallery](#camera-gallery)
 
 
-##  :beginner: About
-Add a detailed introduction about the project here, everything you want the reader to know.
 
 ## :zap: Usage
 משחק המחשב מחובר למכשיר מגע המחובר לאצבעות השחקן כך שהשחקן ינוע באופן הבא: קפיצה - להרים את האצבעות ביחס לגובה הקפיצה. החזקת המוחץ מעל השחקן - לקמץ את היד.
