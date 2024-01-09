@@ -15,6 +15,7 @@
 משחק המחשב מחובר למכשיר מגע המחובר לאצבעות השחקן כך שהשחקן ינוע באופן הבא: קפיצה - להרים את האצבעות ביחס לגובה הקפיצה. החזקת המוחץ מעל השחקן - לקמץ את היד.
 
 ##  :camera: Gallery
-![images](https://github.com/MHA-FinalProject/Crush-And-Jump/assets/118722490/d4a366d8-bd6d-45b3-a278-c9c254526d21)
+![WhatsApp Image 2024-01-09 at 19 59 37_ff3ebb61](https://github.com/MHA-FinalProject/Crush-And-Jump/assets/118722490/7d1c1f4a-b3ca-4957-86d1-6b0cf7f0677f)
+
 
 
