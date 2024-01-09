@@ -15,7 +15,7 @@
 Add a detailed introduction about the project here, everything you want the reader to know.
 
 ## :zap: Usage
-Write about how to use this project.
+משחק המחשב מחובר למכשיר מגע המחובר לאצבעות השחקן כך שהשחקן ינוע באופן הבא: קפיצה - להרים את האצבעות ביחס לגובה הקפיצה. החזקת המוחץ מעל השחקן - לקמץ את היד.
 
 ##  :camera: Gallery
 ![images](https://github.com/MHA-FinalProject/Crush-And-Jump/assets/118722490/d4a366d8-bd6d-45b3-a278-c9c254526d21)
