@@ -19,4 +19,5 @@ Add a detailed introduction about the project here, everything you want the read
 
 ##  :camera: Gallery
 ![images](https://github.com/MHA-FinalProject/Crush-And-Jump/assets/118722490/d4a366d8-bd6d-45b3-a278-c9c254526d21)
-![maxresdefault](https://github.com/MHA-FinalProject/Crush-And-Jump/assets/118722490/bc1dfab6-6ccd-464b-af99-01870b55ddef)
+![image](https://github.com/MHA-FinalProject/Crush-And-Jump/assets/118722490/6fafd637-08f8-43e4-a98d-93cdf7094576)
+
