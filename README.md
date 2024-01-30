@@ -6,8 +6,7 @@
 
 קישור ל-wiki:
 
-
-https://github.com/MHA-FinalProject/Crush-And-Jump/wiki
+[HERE](https://github.com/MHA-FinalProject/Crush-And-Jump/wiki)
 
 ## :zap: שימוש במשחק 
 
